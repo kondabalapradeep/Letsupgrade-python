@@ -1,0 +1,2 @@
+Python is a coding language which is mostly used in google is created in 1991 and to write python we use different IDE'S and Text Editor now we are using Anakonda we will download it from Anakonda website 
+They are three types code environment they are (1)Text Editor (2)IDE'S (3) Notebook Enveronment 
